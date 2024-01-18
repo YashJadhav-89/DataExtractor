@@ -1,0 +1,13 @@
+Employees with 7 consecutive days:
+[]
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+[]
+
+Employees who have worked for more than 14 hours in a single shift:
+[
+  {
+    "Position ID": "WFS000523",
+    "Employee Name": "DeXgadiXXE REdarMe, ChrisMiaW S"
+  }
+]
